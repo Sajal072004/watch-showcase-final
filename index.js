@@ -7,7 +7,7 @@ var imgColor = document.getElementById('images');
 
 
 colorSelectRed.addEventListener( 'click' , function(){
-    imgColor.src = 'http://127.0.0.1:5500/red.png';
+    imgColor.src = 'red.png';
 });
 
 colorSelectBlack.addEventListener( 'click' , function(){
@@ -19,11 +19,11 @@ colorSelectBlue.addEventListener( 'click' , function(){
 });
 
 colorSelectPink.addEventListener( 'click' , function(){
-    imgColor.src = 'http://127.0.0.1:5500/pink.png';
+    imgColor.src = 'pink.png';
 });
 
 colorSelectPurple.addEventListener( 'click' , function(){
-    imgColor.src = 'http://127.0.0.1:5500/purple.png';
+    imgColor.src = 'purple.png';
 });
 
 var featureSelectTime = document.getElementById('time');
@@ -32,11 +32,11 @@ var featureSelectHeart = document.getElementById('heart');
 var featureImage = document.getElementById('timer');
 
 featureSelectTime.addEventListener( 'click' , function(){
-    featureImage.src = 'http://127.0.0.1:5500/timer.png'
+    featureImage.src = 'timer.png';
 });
 
 featureSelectHeart.addEventListener( 'click' , function(){
-    featureImage.src = 'http://127.0.0.1:5500/bpm.png'
+    featureImage.src = 'bpm.png';
 });
 
 var buyNow = document.getElementById('buy-now');
