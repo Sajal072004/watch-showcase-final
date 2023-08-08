@@ -1,0 +1,295 @@
+
+
+
+
+#topbar{
+    background-color: black;
+    width:100vw;
+    height:10%;
+    
+}
+
+#amazon{
+    width :10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+#heading{
+    margin-left: 40%;
+}
+
+.buttons:hover{
+    transform: scale(1.1);
+
+}
+
+
+
+
+#red{
+    background-color: red;
+    color:red;
+    outline-color: black;
+    outline-style: auto;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+#black{
+    background-color: black;
+    color:black;
+    outline-color: black;
+    outline-style: auto;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+#blue{
+    background-color: blue;
+    color:blue;
+    outline-color: black;
+    outline-style: auto;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+#pink{
+    background-color: #e9c7be;
+    color:#e9c7be;
+    outline-color: rgb(0, 0, 0);
+    outline-style: auto;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+#purple{
+    background-color: purple;
+    color:purple;
+    outline-color: black;
+    outline-style: auto;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+.images{
+    position: absolute;
+    width:45%;
+    top:10%;
+    left:-5%;
+    
+   
+}
+
+#time{
+    background-color: rgb(230, 113, 113);
+    outline-style: auto;
+    margin-bottom: 5%;
+
+}
+
+#heart{
+    background-color: rgb(230, 113, 113);
+    outline-style: auto;
+    margin-bottom: 5%;
+
+}
+
+#time:hover{
+    transform: scale(1.1);
+}
+
+#heart:hover{
+    transform: scale(1.1);
+}
+
+#buy-now{
+    background-color: rgb(255, 221, 0);
+    outline: auto;
+}
+
+#buy-now:hover{
+    transform: scale(1.1);
+    
+}
+
+#heading1{
+    margin-left: 40%;
+}
+
+#text-over{
+    position: absolute; color:white;
+    top:25%;
+    left:14%;
+}
+
+.image figcaption{
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    left: 40%;
+    }
+
+
+
+    @media only screen and (max-width: 100px){
+        @media only screen and (min-width: 50px){
+            #timer{
+                    width:14%; top:86px; position: absolute;
+                    left:10%;
+            }
+        }
+    }
+
+@media only screen and (max-width: 150px){
+    @media only screen and (min-width: 101px){
+        #timer{
+                width:14%; top:94px; position: absolute;
+                left:10%;
+        }
+    }
+}
+
+@media only screen and (max-width: 200px){
+    @media only screen and (min-width: 151px){
+        #timer{
+                width:14%; top:104px; position: absolute;
+                left:10%;
+        }
+    }
+}
+
+@media only screen and (max-width: 250px){
+    @media only screen and (min-width: 201px){
+        #timer{
+                width:14%; top:112px; position: absolute;
+                left:10%;
+        }
+    }
+}
+
+@media only screen and (max-width: 300px){
+    @media only screen and (min-width: 251px){
+        #timer{
+                width:14%; top:121px; position: absolute;
+                left:10%;
+        }
+    }
+}
+
+@media only screen and (max-width: 350px){
+    @media only screen and (min-width: 301px){
+        #timer{
+                width:14%; top:130px; position: absolute;
+                left:10%;
+        }
+    }
+}
+
+@media only screen and (max-width: 400px){
+    @media only screen and (min-width: 351px){
+        #timer{
+                width:14%; top:139px; position: absolute;
+                left:10%;
+        }
+    }
+}
+
+@media only screen and (max-width: 450px){
+    @media only screen and (min-width: 401px){
+        #timer{
+                width:14%; top:147px; position: absolute;
+                left:10%;
+        }
+    }
+}
+
+@media only screen and (max-width: 500px){
+    @media only screen and (min-width: 451px){
+        #timer{
+                width:14%; top:155px; position: absolute;
+                left:10%;
+        }
+    }
+}
+
+@media only screen and (max-width: 550px){
+    @media only screen and (min-width: 501px){
+        #timer{
+                width:14%; top:160px; position: absolute;
+                left:10%;
+        }
+    }
+}
+
+@media only screen and (max-width: 600px){
+    @media only screen and (min-width: 551px){
+        #timer{
+                width:14%; top:170px; position: absolute;
+                left:10%;
+        }
+    }
+}
+
+@media only screen and (max-width: 768px){
+    @media only screen and (min-width: 601px){
+        #timer{
+                width:14%; top:185px; position: absolute;
+                left:10%;
+        }
+    }
+}
+
+@media only screen and (max-width: 992px){
+    @media only screen and (min-width: 769px){
+        #timer{
+                width:14%; top:220px; position: absolute;
+                left:10%;
+        }
+    }
+}
+
+@media only screen and (max-width: 1200px){
+    @media only screen and (min-width: 993px){
+        #timer{
+                width:14%; top:250px; position: absolute;
+                left:10%;
+        }
+    }
+}
+
+@media only screen and (max-width: 1400px){
+    @media only screen and (min-width: 1201px){
+        #timer{
+                width:14%; top:285px; position: absolute;
+                left:10%;
+        }
+    }
+}
+
+@media only screen and (max-width: 1600px){
+    @media only screen and (min-width: 1401px){
+        #timer{
+                width:14%; top:310px; position: absolute;
+                left:10%;
+        }
+    }
+}
+
+@media only screen and (max-width: 1800px){
+    @media only screen and (min-width: 1601px){
+        #timer{
+                width:14%; top:350px; position: absolute;
+                left:10%;
+        }
+    }
+}
+
+
+
+
+
+    
