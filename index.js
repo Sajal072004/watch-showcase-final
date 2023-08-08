@@ -7,11 +7,11 @@ var imgColor = document.getElementById('images');
 
 
 colorSelectRed.addEventListener( 'click' , function(){
-    imgColor.src = 'http://127.0.0.1:5500/red.png'
+    imgColor.src = 'http://127.0.0.1:5500/red.png';
 });
 
 colorSelectBlack.addEventListener( 'click' , function(){
-    imgColor.src = 'http://127.0.0.1:5500/black.png'
+    imgColor.src = 'black.png';
 });
 
 colorSelectBlue.addEventListener( 'click' , function(){
@@ -19,11 +19,11 @@ colorSelectBlue.addEventListener( 'click' , function(){
 });
 
 colorSelectPink.addEventListener( 'click' , function(){
-    imgColor.src = 'http://127.0.0.1:5500/pink.png'
+    imgColor.src = 'http://127.0.0.1:5500/pink.png';
 });
 
 colorSelectPurple.addEventListener( 'click' , function(){
-    imgColor.src = 'http://127.0.0.1:5500/purple.png'
+    imgColor.src = 'http://127.0.0.1:5500/purple.png';
 });
 
 var featureSelectTime = document.getElementById('time');
